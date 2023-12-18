@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Currently I am studying Computer Science at PK and I am learning programming languages - mainly C++.
+
+My respositories contain code written by me as a practical exercises from book: "Programowanie. Teoria i praktyka z wykorzystaniem C++" written by Bjarne Stroustrup.
+
+
 <!--
 **marektoja/marektoja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
