@@ -1,4 +1,5 @@
 ### Hi there 👋
+Few years ago I have graduated from WAT, I have studied ther Electronics and Telecommunication.
 
 Currently I am studying Computer Science at PK and I am learning programming languages - mainly C++.
 
